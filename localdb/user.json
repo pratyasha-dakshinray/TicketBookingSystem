@@ -1,0 +1,41 @@
+[
+     {
+        "name": "praty",
+        "password": "praty@123",
+        "hashpassword": "praty@123",
+        "userid": "1",
+        "ticketssBooked": [
+            {
+                "source": "delhi",
+                "destination": "mumbai",
+                "dateofTravel": "2024-06-15",
+                "train": {
+                    "trainid": "123",
+                    "trainname": "Rajdhani Express",
+                    "source": "delhi",
+                    "destination": "mumbai",
+                    "departureTime": "2024-06-15T09:00:00",
+                    "arrivalTime": "2024-06-15T17:00:00",
+                    "seats":[
+                        [0, 0, 0, 0, 0, 0],
+                        [0, 0, 0, 0, 0, 0],
+                        [0, 0, 0, 0, 0, 0],
+                        [0, 0, 0, 0, 0, 0]
+                    ],
+                    "stations": [
+                        {
+                            "stationName": "delhi",
+                            "arrivalTime": "2024-06-15T09:00:00",
+                            "departureTime": "2024-06-15T09:10:00"
+                        },
+                        {
+                            "stationName": "mumbai",
+                            "arrivalTime": "2024-06-15T17:00:00",
+                            "departureTime": "2024-06-15T17:10:00"
+                        }
+                    ]
+                }
+            }
+        ] 
+    }
+]
