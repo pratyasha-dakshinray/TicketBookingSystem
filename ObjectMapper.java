@@ -1,0 +1,6 @@
+/**
+ * ObjectMapper
+ */
+public class ObjectMapper {
+
+}
